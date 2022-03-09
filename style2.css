@@ -1,0 +1,17 @@
+p{
+    color: rgba(25, 122, 147, 0.8);
+}
+
+h1{ 
+    background-color: rgb(54, 125, 125);
+    color: chartreuse;
+}
+
+h2{
+    background-color: #d1c2fb;
+    color: red;
+}
+
+h3{
+    background-color: hsl();
+}

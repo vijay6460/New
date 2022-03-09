@@ -1,0 +1,27 @@
+/* /* section>p{
+    color:rgb(22, 15, 254);
+
+} */
+
+
+/* section p{
+    background-color: red;
+} */
+
+
+ div+p{/* only adjacent after the div block will come */
+    color: red;
+}
+
+span+p{
+    color: orange;
+}
+
+span~p{
+    color: brown;
+} 
+
+/* In general sibilings we will apply when they are adjacent to the div tag when there are two or more  */
+/* not only for the div we can apply for the span or pre or what ever may be the thing  */
+
+ 
